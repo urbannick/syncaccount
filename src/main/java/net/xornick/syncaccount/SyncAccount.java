@@ -24,8 +24,6 @@ public final class SyncAccount extends JavaPlugin {
         registerCommands();
         API_KEY = getConfig().getString("api.key");
         API_URL = getConfig().getString("api.url");
-
-
     }
 
     private void registerCommands() {
