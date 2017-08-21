@@ -1,0 +1,15 @@
+# XenAPI - https://github.com/Contex/XenApi
+api:
+  key: ''
+  # Don't include /api.php, must have a / at the end
+  url: 'https://www.exampleurl.com/community/'
+
+# MySQL
+database:
+    host: localhost
+    port: 3306
+    # Replace with whatever database your XenForo installation is stored on
+    database: xenforo
+    username: root
+    password: ''
+

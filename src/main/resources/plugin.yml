@@ -1,0 +1,10 @@
+name: SyncAccount
+version: ${project.version}
+main: net.xornick.syncaccount.SyncAccount
+commands:
+  register:
+    description: Register account on the forums!
+    usage: /<command>
+  syncaccount:
+    description: Sync your forum account with your ingame account
+    usage: /<command>
